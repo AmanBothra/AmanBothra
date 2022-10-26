@@ -8,15 +8,14 @@
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
 - 🌱 I’m currently learning Vue & AWS
-- 🔭 I’m currently working on Rest API
-
+- 🔭 I’m currently working as a Backend Developer
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/aman-bothra-25625118b/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/polarameshchandra/">
+  <a href="https://www.instagram.com/_mr_._vampire/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:amanbothra@1777@gmail.com">
