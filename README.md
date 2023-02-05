@@ -5,7 +5,7 @@
 
 # I'm a Tech Enthusiast!! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
 
-- 🌱 I’m currently learning Vue & AWS
+- 🌱 I’m currently learning System Design
 - 🔭 I’m currently working as a Backend Developer
 
 
