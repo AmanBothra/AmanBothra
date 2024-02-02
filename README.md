@@ -1,5 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Aman+Bothra's+GitHub+Profile)](https://git.io/typing-svg)
+<!-- <h1 align="center">Hi 👋, I'm Aman Bothra</h1> -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+<h1 align="center">I'm Aman Bothra</h1>
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 
