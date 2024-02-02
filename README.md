@@ -40,6 +40,8 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanBothra&show_icons=true" alt="AmanBothra" /></p>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AmanBothra&color=orange&style=flat-square)
 
