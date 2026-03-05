@@ -56,8 +56,18 @@
 
 ---
 
+## ✨ Fun Facts
+- 🎧 Coding with lo-fi beats or SoundCloud remixes
+- 🧩 Loves problem-solving and system design
+- 🚀 Always open to learning and collaboration
+
+---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AmanBothra&color=orange&style=flat-square)
+
+---
+
+⭐ *If you like what I do, consider giving my repos a star — it keeps me caffeinated!* ☕
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
 
