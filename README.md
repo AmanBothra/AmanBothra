@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning System Design
 - 🔭 I’m currently working as a Backend Developer
 
+> “Code is like humor — when you have to explain it, it’s bad.” 😎
+
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/aman-bothra-25625118b/" target="blank" >
